@@ -1,4 +1,4 @@
-# randomely keeps generating a number, when it generates 5 of the same number it stops generating that number
+# randomly keeps generating a number. When it generates 5 of the same number, it stops generating that number
 
 #https://stackoverflow.com/questions/33730396/how-to-generate-random-integers-with-multiple-ranges
 
